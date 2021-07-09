@@ -1,6 +1,15 @@
 # AutomationGuide
 Learn how to automate XSS, SSRF, LFI, SQLI, NoSQLi
 
+Content:
+* <a href="https://github.com/DevanshRaghav75/AutomationGuide/blob/main/README.md#tools-needed-for-automation">Tools for automation</a>
+* <a href="https://github.com/DevanshRaghav75/AutomationGuide/blob/main/README.md#xss-automation">XSS automation</a>
+* <a href="https://github.com/DevanshRaghav75/AutomationGuide/blob/main/README.md#sql-injection-automation">SQL injection automation</a>
+* <a href="https://github.com/DevanshRaghav75/AutomationGuide/blob/main/README.md#lfi-automation">LFI automation</a>
+* <a href="https://github.com/DevanshRaghav75/AutomationGuide/blob/main/README.md#ssrf-automation">SSRF automation</a>
+* <a href="https://github.com/DevanshRaghav75/AutomationGuide/blob/main/README.md#nosql-injection-automation">NoSQL injection automation</a>
+* <a href="https://github.com/DevanshRaghav75/AutomationGuide/blob/main/README.md#special-thanks">Special thanks</a>
+
 ## Tools needed for automation
 
 * <a href="https://github.com/projectdiscovery/subfinder">Subfinder</a>
