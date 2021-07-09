@@ -1,4 +1,4 @@
-# Automation_guide
+# AutomationGuide
 Learn how to automate XSS, SSRF, LFI, SQLI, NoSQLi
 
 ## Tools needed for automation
